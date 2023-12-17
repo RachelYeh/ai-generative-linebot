@@ -1,0 +1,4 @@
+flask==2.3.2
+requests==2.31.0
+pymongo==4.5.0
+pytz==2023.3.post1
