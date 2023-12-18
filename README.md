@@ -6,7 +6,7 @@
 	- 圖片分析：可傳送照片及一組問題，針對圖中內容進行回答
 		> 支持Vision功能，透過OpenAI最新釋出模型GPT4進行分析(暫用低解析度模式)
 	- 圖片生成：透過一段文字描述，生成對應圖片
-   	![生成模式](https://219.69.20.132/static/generation_mode.png)
+   	![生成模式](https://219.69.20.132/static/generation_mode2.png)
 
 - 整合於Line環境中，可直接於對話介面上使用，無須切換至不同服務商的操作環境（如Midjourney須透過Discord）
 - 基於Line Messaging API接收事件，透過不同的訊息類型進行調控，並以合適的Line元件推送至用戶端呈現
